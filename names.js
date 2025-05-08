@@ -1,5 +1,5 @@
-const completeNameObject = (firstName, LastName) =>{
-    const completeName = {firstName, LastName};
+const completeNameObject = (firstName, lastName) =>{
+    const completeName = {firstName, lastName};
     return completeName;
 };
 
